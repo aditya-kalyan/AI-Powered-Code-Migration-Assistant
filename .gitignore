@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.egg-info/
+.DS_Store
+
+# Per-run artifacts produced by the agent (written to the project root)
+/src/
+/tests/
+/reports/
+*.gcda
+*.gcno
+*.gcov
